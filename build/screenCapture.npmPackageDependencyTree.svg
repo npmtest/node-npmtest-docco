@@ -1,5 +1,5 @@
-<svg height="222" width="720" xmlns="http://www.w3.org/2000/svg">
-<rect height="222" fill="#555" width="720"></rect>
+<svg height="238" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="238" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
 <tspan x="10" y="26">5 megabytes installed</tspan>
 <tspan x="10" y="42"></tspan>
@@ -7,11 +7,12 @@
 <tspan x="10" y="74">└─┬ docco@0.7.0 </tspan>
 <tspan x="10" y="90">  ├─┬ commander@2.9.0 </tspan>
 <tspan x="10" y="106">  │ └── graceful-readlink@1.0.1 </tspan>
-<tspan x="10" y="122">  ├─┬ fs-extra@2.1.2 </tspan>
+<tspan x="10" y="122">  ├─┬ fs-extra@3.0.0 </tspan>
 <tspan x="10" y="138">  │ ├── graceful-fs@4.1.11 </tspan>
-<tspan x="10" y="154">  │ └── jsonfile@2.4.0 </tspan>
-<tspan x="10" y="170">  ├── highlight.js@9.10.0 </tspan>
-<tspan x="10" y="186">  ├── marked@0.3.6 </tspan>
-<tspan x="10" y="202">  └── underscore@1.8.3</tspan>
+<tspan x="10" y="154">  │ ├── jsonfile@3.0.0 </tspan>
+<tspan x="10" y="170">  │ └── universalify@0.1.0 </tspan>
+<tspan x="10" y="186">  ├── highlight.js@9.11.0 </tspan>
+<tspan x="10" y="202">  ├── marked@0.3.6 </tspan>
+<tspan x="10" y="218">  └── underscore@1.8.3</tspan>
 </text>
 </svg>
